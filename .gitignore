@@ -1,0 +1,15 @@
+# Build files
+*.hex
+*.bin
+*.elf
+*.o
+*.obj
+*.map
+
+# Arduino IDE generated files
+.arduino-ide
+.vscode
+
+# Configuration files
+config.h
+secrets.h
